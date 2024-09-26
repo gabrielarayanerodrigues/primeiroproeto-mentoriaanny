@@ -63,14 +63,6 @@ form [type='submit'] {
     border-radius: 10px;
     border: none;
 }
-form [typer='submit']{
-    height: 50px;
-    width: 50px;
-    background-color: rgb(132, 14, 201);
-    color: white;
-    font-weight: bold;
-    border-radius: 10px;
-}
 form [typer='submit']:hover{
     cursor: pointer;
 }
